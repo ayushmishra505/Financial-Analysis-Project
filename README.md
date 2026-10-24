@@ -1,4 +1,4 @@
-# Financial Sample Dashboard
+# Financial Dashboard
 
 An interactive Microsoft Power BI dashboard for exploring sales performance,
 profitability, and financial trends in the Financial Sample data.
@@ -26,8 +26,8 @@ segments, country results, and costs.
 
 ## Files
 
-- `Financial-Sample-Dashboard.pbix` — Power BI report file.
-- `screenshots/` — Dashboard previews, if included.
+- `financial_Dataset-Dashboard\.pbix` — Power BI report file.
+- `financial_Dataset.csv`-10000 dataset of financial sample.
 
 ## Data and privacy
 
